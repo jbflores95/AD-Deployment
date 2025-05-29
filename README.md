@@ -104,7 +104,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 </p>
 - Now click Next until you get to "Prerequisites Check".
 </p>
-- Hit Install. This will automatically sign you out of DC-1 because Active Directory was installed. Log back into DC-1.
+- Hit Install. This will automatically sign you out of DC-1 because Active Directory was installed. Log back into DC-1 as mydomain.com\labuser.
 </p>
 <br />
 

@@ -282,4 +282,4 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <h2>Final Thoughts</h2>
 
--
+- Active Directory is fun to learn, and the Azure environment introduced unique considerations, like virtual networking, public/private IP configurations, and cross-VM connectivity. This is the end of this section of the project. Next, we will add some users, so don't go away!

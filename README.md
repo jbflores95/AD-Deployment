@@ -9,7 +9,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <h2>Prerequisites</h2>
 
 - [Creating a Virtual Machine from Scratch](https://github.com/jbflores95/Virtual-machine)
-- [Preparing Ad Infrastructure in Azure]
+- [Preparing Ad Infrastructure in Azure](https://github.com/jbflores95/AD-Infrastructure/blob/main/README.md)
 
 <h2>Environments and Technologies Used</h2>
 

@@ -7,6 +7,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 
 <h2>Prerequisites</h2>
+- Creating a Virtual Machine from Scratch
 - 
 
 <h2>Environments and Technologies Used</h2>

@@ -111,7 +111,8 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <br />
 
 <p>
-
+<h2>Step2: Creating a Domain Admin User</h2>
+  
 ![24](https://github.com/user-attachments/assets/1045cbab-0ddd-413e-b1f6-18d445f22b43)
 ![25](https://github.com/user-attachments/assets/c8a35362-0f05-4d1d-a570-46041827fde5)
 ![26](https://github.com/user-attachments/assets/24146708-02bd-49cd-b699-6665aafe85fb)
@@ -176,8 +177,9 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <br />
 
 <p>
+<h2>Step3:Integrate Client-1 with the AD Domain</h2>
 
-![33](https://github.com/user-attachments/assets/eebc053c-1b95-43be-ae70-e409cca18879)
+  ![33](https://github.com/user-attachments/assets/eebc053c-1b95-43be-ae70-e409cca18879)
 
 </p>
 <p>
@@ -259,7 +261,8 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <br />
 
 <p>
-
+<h2>Step4:Configure Client-1 to Permit RDP for Non-Admin Users</h2>
+  
 ![43](https://github.com/user-attachments/assets/d8ed1dae-1de4-419e-8638-fe7428a4a4e9)
 ![44](https://github.com/user-attachments/assets/35c97cb1-7ada-4b08-9cde-dcb220df1ea3)
 

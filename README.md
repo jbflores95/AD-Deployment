@@ -39,7 +39,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 </p>
 <p>
-- Open up DC-1 with Remote Desktop. (If you are new to creating Resource Groups and Virtual Machines in Azure, (refer to the prerequisites outlined above for step-by-step guidance)
+- Open up DC-1 with Remote Desktop. (If you are new to creating Resource Groups and Virtual Machines in Azure, refer to the prerequisites outlined above for step-by-step guidance)
 </p>
 - Now open up Server Manager if it's already up. Select Add roles and features, and click Next twice.
 <br />
